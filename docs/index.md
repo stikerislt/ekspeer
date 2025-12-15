@@ -1,5 +1,5 @@
 ---
-Title: "Expense Tracking Apps: A Beginner's Guide"
+title: "Expense Tracking Apps: A Beginner's Guide"
 Description: "Learn how expense tracking apps work, their benefits, limitations, and what first-time users can expect. Includes an example using ekspeer."
 ---
 
